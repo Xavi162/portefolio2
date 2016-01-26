@@ -215,6 +215,7 @@ h4
   text-align: center;
   letter-spacing: 1px;
   font-family: cursive;
+  padding: 45px 30px 26px 30px;
 }
 
 #table31
@@ -222,6 +223,8 @@ h4
     border-collapse: collapse;
     font-size: 1em;
     text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.7);
+    padding: 20px 20px 20px 20px;
+    table-layout: auto;
 }
 
 td
